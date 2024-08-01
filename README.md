@@ -77,7 +77,7 @@ This project is licensed under the MIT License.
 - The **API** provider for the currency conversion data.
 
 ## Contact
- If you have any questions or feedback, feel free to reach out at [here](sujaykhond@gmail.com).
+ If you have any questions or feedback, feel free to reach out at sujaykhond@gmail.com
  ```sh
  Make sure to replace placeholders like `https://github.com/yourusername/currency-converter.git` and `your_api_key_here` with your actual repository URL and API 
  key. You can also customize the sections to better fit your project's details.
