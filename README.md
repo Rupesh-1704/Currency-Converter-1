@@ -40,13 +40,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 The application will run on http://localhost:3000.
 
 ## Usage
- 1 **Select the currencies** you want to convert from and to.
- 2 **Enter the amount** you want to convert.
- 3 The application will display the **converted amount** based on the latest exchange rates.
+ - **Select the currencies** you want to convert from and to.
+ - **Enter the amount** you want to convert.
+ - The application will display the **converted amount** based on the latest exchange rates.
+
+## Deployment
+The project is deployed and can be accessed at[here](https://currency-converter-one-kappa.vercel.app/.)
  
 ## Built With
-**React.js:** A JavaScript library for building user interfaces.
-**API:** Used for fetching real-time currency conversion rates.
+- **React.js:** A JavaScript library for building user interfaces.
+- **API:** Used for fetching real-time currency conversion rates.
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
@@ -56,7 +59,28 @@ If you'd like to contribute to this project, please fork the repository and use 
    ```sh
    git checkout -b feature/YourFeatureName
 
-3.**Make your changes and commit them:**
-   ```sh
-  git commit -m 'Add some feature'   sh```
+3. **Make your changes and commit them:**
+    ```sh
+     git commit -m 'Add some feature'
+
+4. **Push to the branch:**
+   ```sh 
+   git push origin feature/YourFeatureName
+
+5. **Create a new pull request.**
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- **React.js** for the awesome library.
+- The **API** provider for the currency conversion data.
+
+## Contact
+ If you have any questions or feedback, feel free to reach out at [here](sujaykhond@gmail.com).
+ ```sh
+ Make sure to replace placeholders like `https://github.com/yourusername/currency-converter.git` and `your_api_key_here` with your actual repository URL and API 
+ key. You can also customize the sections to better fit your project's details.
+
+
 
