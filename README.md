@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/sujaykhond/currency-converter.git
    cd currency-converter
 
 2.  **Install dependencies:**
@@ -79,7 +79,7 @@ This project is licensed under the MIT License.
 ## Contact
  If you have any questions or feedback, feel free to reach out at sujaykhond@gmail.com
  ```sh
- Make sure to replace placeholders like `https://github.com/yourusername/currency-converter.git` and `your_api_key_here` with your actual repository URL and API 
+ Make sure to replace placeholders like `https://github.com/sujaykhond/currency-converter.git` and `your_api_key_here` with your actual repository URL and API 
  key. You can also customize the sections to better fit your project's details.
 
 
