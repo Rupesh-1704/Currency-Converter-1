@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 function useCurrencyInfo(currency) {
     const [data, setData] = useState(null);
     useEffect(() => {
-        fetch(`https://v6.exchangerate-api.com/v6/3a03417b2825438b0f2b643f/latest/${currency}`)
+        fetch(` https://v6.exchangerate-api.com/v6/8a2e4aed6e1fa2e640f02caf/latest/${currency}`)
             .then((res) => res.json())
             .then((res) => {
                 if (res && res.conversion_rates) {
